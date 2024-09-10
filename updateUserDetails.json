@@ -1,0 +1,23 @@
+{
+  "favoriteLists": [
+    {
+      "isAllList": false,
+      "id": "555",
+      "listName": "test list",
+      "favoriteItems": [
+        {
+          "id": "fdkljf",
+          "quantity": 1,
+          "materialNumber": "2545758",
+          "unit": "KAR"
+        },
+        {
+          "id": "anotherId",
+          "quantity": 2,
+          "materialNumber": "2545759",
+          "unit": "KAR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "favoriteLists": [
+    {
+      "listName": " General ",
+      "isAllList": true,
+      "favoriteItems": [],
+      "id": "55"
+    },
+    {
+      "listName": "list1",
+      "isAllList": false,
+      "favoriteItems": [
+        {
+          "unit": "KAR",
+          "id": "s5sf5-4405-4ced-90ed-6fdf54",
+          "quantity": "2",
+          "materialNumber": "2539045"
+        }
+      ],
+      "id": "ca43dfb4-4405-4ced-90ed-4e91bd346304"
+    }
+  ]
+}
